@@ -1,0 +1,1 @@
+vless://8c8a8681-5444-4e18-a427-54f19eea6a77@188.225.72.122:1443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WBNom5f5q6BO4YVWzNbZ8FM5ZYmowxybY7bF6fNfzGk&security=reality&sni=sh.shvedpride.shop&type=raw#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23104
